@@ -56,7 +56,7 @@ We are currently in the development phase of Twenty's alpha version:
 📅  Auto-logging emails  
 📅  Search / Cmd + K  
 📅  Data connectors  
-📅  +++
+📅  +++ 
 
 # Documentation
 The doc is available on [docs.twenty.com](https://docs.twenty.com)
